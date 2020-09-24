@@ -825,7 +825,7 @@ ul.footer-menu li a:hover {
     /* Задать высоту, цвет текста и подложки для полосы подписки */
     color: white;
     background: red;
-    height: 10vh;
+    height: 8vh;
    
     display: table;
     width: 100%;
@@ -883,8 +883,8 @@ ul.footer-menu li a:hover {
     background: #0a51b1;
     height: 10vh;
     color: white;
-    font-size: 20px;
-    line-height: 10px;
+    font-size: 16px;
+    line-height: 20px;
    
 }
 
